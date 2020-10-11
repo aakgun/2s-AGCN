@@ -6,6 +6,7 @@ Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recog
 ~~PyTorch version should be 0.3! For PyTorch0.4 or higher, the codes need to be modified.~~ \
 Now we have updated the code to >=Pytorch0.4. \
 A new model named AAGCN is added, which can achieve better performance. 
+New Version for AAKGUN
 
 # Data Preparation
 
